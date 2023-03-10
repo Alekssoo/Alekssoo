@@ -16,14 +16,32 @@
 </div>
 </HTML>
 
-###
+### About me
 - 🌱 I’m currently learning Frontend Development / JS / TS / React
-- :computer: I’m regularly code on JavaScript (ES6+) and TypeScript
+- :computer: I’m regularly code in JavaScript (ES6+) and TypeScript
 - :mailbox_with_no_mail: Reach me by [email](mailto:aleksprth@gmail.com), [Telegram](https://t.me/alx_pro)
 - :earth_asia: I speak Russian and some English
 
+### Languages and tools
+<div class="langs" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>
+</div>
 
-<!--
+### My stats
+
+<div class="stats" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alekssoo&theme=dark" alt="stats"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alekssoo&theme=dark" alt="stats"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alekssoo&theme=dark" alt="stats"/>
+</div>
+
+
 **Alekssoo/Alekssoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
