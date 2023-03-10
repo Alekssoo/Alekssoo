@@ -18,6 +18,11 @@
 
 ###
 - 🌱 I’m currently learning Frontend Development / JS / TS / React
+- :computer: I’m regularly code on JavaScript (ES6+) and TypeScript
+- :mailbox_with_no_mail: Reach me by [email](mailto:aleksprth@gmail.com), [Telegram](https://t.me/alx_pro)
+- :earth_asia: I speak Russian and some English
+
+
 <!--
 **Alekssoo/Alekssoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
