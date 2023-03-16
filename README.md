@@ -37,7 +37,6 @@
 
 <div class="stats" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alekssoo&theme=dark" alt="stats"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alekssoo&theme=dark" alt="stats"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alekssoo&theme=dark" alt="stats"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alekssoo&theme=dark" alt="stats"/>
 </div>
